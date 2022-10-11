@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+body {
+  min-height: 100vh;
+  font-size: 1.5rem;
+  padding: 0 10% 10%;
+}
+
+input,
+textarea,
+button,
+select {
+  font: inherit;
+  margin-bottom: 1em;
+}
+
+.active{
+  border-bottom: 3px solid #FF2625;
+}
